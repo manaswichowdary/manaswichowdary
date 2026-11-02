@@ -1,20 +1,24 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Manaswi Makkena, CS at ASU, full stack and AI agents">
+  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Manaswi. CS senior at Arizona State University building full stack apps and AI agents.">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manaswi01"><img src="https://img.shields.io/badge/LinkedIn-manaswi01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:manaswicmakkena@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-F26B1D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Tempe%2C%20AZ-open%20to%20anywhere%20in%20the%20US-22180F?style=for-the-badge" alt="Location">
+  <a href="mailto:manaswicmakkena@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/manaswichowdary?tab=repositories"><img src="https://img.shields.io/badge/Repos-browse%20all-11142A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
-Hi, I'm Manaswi! I'm a Computer Science senior at **Arizona State University**, graduating in **December 2026**. I like building things people actually use: full stack apps, AI agents and developer tools. Before this, I interned as a software developer at **Neuramod** (iOS, Swift) and as a software engineer at **Endless Moments** (an HR and payroll platform), and I was a TA for CSE 360.
+<p align="center">
+  <img src="assets/dashboard.svg" width="100%" alt="Dot portrait of Manaswi with stats: 10 public repos, 3 internships, 2nd place at DevHacks 2026, graduating December 2026, commit activity and languages">
+</p>
+
+I'm a Computer Science senior at **Arizona State University**, graduating in **December 2026**. I've interned as a software developer at **Neuramod** (iOS, Swift) and as a software engineer at **Endless Moments** (an HR and payroll platform), I'm interning at **Mach-AI** now, and I was a TA for CSE 360.
 
 ## Right now
 
 <img src="assets/now.svg" width="100%" alt="Interning at Mach-AI on DealPilot. Won 2nd place at DevHacks 2026. Looking for new grad SWE roles.">
 
-## Things I built
+## Featured projects
 
 <a href="https://github.com/manaswichowdary/student-agents"><img src="assets/cards/student-agents.svg" width="49%" alt="Student Agents"></a>
 <a href="https://github.com/manaswichowdary/freebie-radar"><img src="assets/cards/freebie-radar.svg" width="49%" alt="Freebie Radar"></a>
@@ -31,11 +35,11 @@ Hi, I'm Manaswi! I'm a Computer Science senior at **Arizona State University**, 
   <img src="assets/stack.svg" width="78%" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Django, PHP, Laravel, Swift, Java, PostgreSQL, MySQL, Supabase, Docker, Git, GitHub Actions">
 </p>
 
-## GitHub activity
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaswichowdary&show_icons=true&include_all_commits=true&count_private=true&bg_color=fff4e4&title_color=f26b1d&icon_color=f26b1d&text_color=22180f&border_color=22180f&border_radius=18" height="170" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com/?user=manaswichowdary&background=FFF4E4&border=22180F&stroke=22180F&ring=F26B1D&fire=F26B1D&currStreakNum=22180F&sideNums=22180F&currStreakLabel=F26B1D&sideLabels=22180F&dates=7A6A5A&border_radius=18" height="170" alt="Contribution streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=manaswichowdary&show_icons=true&include_all_commits=true&count_private=true&bg_color=11142a&title_color=a78bfa&icon_color=22d3ee&text_color=ecebff&border_color=2a2f55&border_radius=18" height="170" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=manaswichowdary&background=11142A&border=2A2F55&stroke=2A2F55&ring=A78BFA&fire=F472B6&currStreakNum=ECEBFF&sideNums=ECEBFF&currStreakLabel=A78BFA&sideLabels=9AA0C8&dates=9AA0C8&border_radius=18" height="170" alt="Contribution streak">
 </p>
 
 <p align="center">
