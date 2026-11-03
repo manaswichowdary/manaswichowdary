@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/v4/hero.svg" width="100%" alt="Hi, I'm Manaswi. CS senior at Arizona State University building full stack apps and AI agents.">
+  <img src="assets/v4/hero2.svg" width="100%" alt="Hi, I'm Manaswi. CS senior at Arizona State University building full stack apps and AI agents.">
 </p>
 
 <p align="center">
