@@ -12,8 +12,6 @@
   <img src="assets/v4/dashboard2.svg" width="100%" alt="Dot portrait of Manaswi with stats: 10 public repos, 3 internships, 2nd place at DevHacks 2026, graduating December 2026, experience and languages">
 </p>
 
-I'm a Computer Science senior at **Arizona State University**, graduating in **December 2026**. I've interned as a software developer at **Neuramod** (iOS, Swift) and as a software engineer at **Endless Moments** (an HR and payroll platform), I'm interning at **Mach-AI** now, and I was a TA for CSE 360.
-
 ## Featured projects
 
 <a href="https://github.com/manaswichowdary/student-agents"><img src="assets/v4/cards/student-agents.svg" width="49%" alt="Student Agents"></a>
