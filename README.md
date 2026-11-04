@@ -26,5 +26,5 @@
 <img src="assets/v12/h-stack.svg" width="100%" alt="Tech stack">
 
 <p align="center">
-  <img src="assets/v12/stack.svg" width="100%" alt="Tech stack orbiting a planet: Python, TypeScript, React, FastAPI, PostgreSQL, JavaScript, Next.js, Node.js, Django, Supabase, Docker, PHP, Laravel, Swift, Java, MySQL, Git, GitHub Actions">
+  <img src="assets/v12/stack2.svg" width="100%" alt="Tech stack orbiting a planet: Python, TypeScript, React, FastAPI, PostgreSQL, AWS Bedrock, JavaScript, Next.js, Node.js, Django, Supabase, Docker, Streamlit, PHP, Laravel, Swift, Java, MySQL, Git, GitHub Actions">
 </p>
