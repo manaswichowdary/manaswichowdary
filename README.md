@@ -16,7 +16,7 @@
 <img src="assets/v15/h-projects.svg" width="100%" alt="Featured projects">
 
 <a href="https://github.com/manaswichowdary/gauge"><img src="assets/v15/cards/gauge.svg" width="49%" alt="Gauge"></a>
-<a href="https://github.com/manaswichowdary/cite"><img src="assets/v15/cards/cite.svg" width="49%" alt="Cite"></a>
+<a href="https://github.com/manaswichowdary/cite"><img src="assets/v15/cards/cite2.svg" width="49%" alt="Cite"></a>
 <a href="https://github.com/manaswichowdary/cloud-drift-guard"><img src="assets/v15/cards/cloud-drift-guard.svg" width="49%" alt="Cloud Drift Guard"></a>
 <a href="https://github.com/manaswichowdary/flaky-test-detector"><img src="assets/v15/cards/flaky-test-detector.svg" width="49%" alt="Flaky Test Detector"></a>
 <a href="https://github.com/manaswichowdary/marketlens"><img src="assets/v15/cards/marketlens.svg" width="49%" alt="MarketLens"></a>
